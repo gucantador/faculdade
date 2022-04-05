@@ -4,17 +4,23 @@ int main (){
 
     int num, i;
 
-    printf("Digite um numero para ver se é primo: ");
+    printf("Digite um numero para ver se eh primo: ");
     scanf("%i", &num);
 
     i = 2;
 
     while (num%i==0 && num!=i ){
 
-        printf("Numero nao primo");
-        num = num +1;
+        if (num%i==0){
+            printf("numero nao primo");
+        }
+
+        else{
+            printf("numero primo");
+        }
+
+        i = i +1;
     }
 
-printf("Numero primo");
 
 }
