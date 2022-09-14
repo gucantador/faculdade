@@ -1,0 +1,5 @@
+a. imprima apenas as palavras começadas pelas letras 'a' ou 'A'.
+
+b. calcula a frequência de vogais
+
+c. calcula o percentual de vogais no arquivo.
