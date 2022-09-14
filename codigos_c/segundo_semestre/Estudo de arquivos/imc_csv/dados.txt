@@ -1,0 +1,3 @@
+IMC DE "Fulano de Tal": 26.70
+IMC DE "Ciclano de Tal": 29.91
+IMC DE "Beltrano de Tal": 25.73
